@@ -8,7 +8,7 @@ It’s divided into two parts:
 ## Getting started
 To use functionality of our project, ensure you have: PyGame, Gym, NumPy installed.
 ## Contributors
--  [Aleksaner Kwaśny](https://github.com/akwasnyy)
+-  [Aleksander Kwaśny](https://github.com/akwasnyy)
 -  [Dawid Hebda](https://github.com/Zawirusowany)
 -  [Kamil Milewski](https://github.com/K4mi1ewski)
 -  [Joanna Hełdak](https://github.com/monkeykinggggg)
